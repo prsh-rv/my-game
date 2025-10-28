@@ -23,15 +23,15 @@ class Sounds:
         self.hit = pygame.mixer.Sound(f"assets/audio/mac-quack.{ext}")
         self.point = pygame.mixer.Sound(f"assets/audio/point.{ext}")
         self.swoosh = pygame.mixer.Sound(f"assets/audio/swoosh.{ext}")
-        self.wing = pygame.mixer.Sound(f"assets/audio/anime.{ext}")
+        self.wing = pygame.mixer.Sound(f"assets/audio/fart.{ext}")
         self.background = pygame.mixer.Sound(f"assets/audio/background_theme.{ext}")
 
         # load multiple die songs (prefer explicit files if present)
         die_candidates = [
             "assets/audio/out.wav",
-            "assets/audio/koun-hai-re_8ep4nAR.wav",
-            "assets/audio/koun_hai.mp3",
-            "assets/audio/tejasvi.wav",
+            # "assets/audio/koun-hai-re_8ep4nAR.wav",
+            # "assets/audio/koun_hai.mp3",
+            # "assets/audio/tejasvi.wav",
         ]
         self.die_sounds = []
         for p in die_candidates:
