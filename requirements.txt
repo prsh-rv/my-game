@@ -1,0 +1,2 @@
+# Core dependencies
+pygame>=2.6.1  # Minimum version that supports all features we use

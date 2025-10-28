@@ -1,0 +1,8 @@
+*.pyc
+build
+.python-version
+*.egg-info
+.vscode
+.DS_Store
+*env/
+*__pycache__/
