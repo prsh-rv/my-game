@@ -37,7 +37,7 @@ class Images:
 
             # texts
             title = "Modiji Games"
-            subtitle = "Get Ready"
+            subtitle = "Abki Baar 400 Par"
             tap = "Tap to Start"
 
             # colors and simple shadow
