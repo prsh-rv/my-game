@@ -38,7 +38,7 @@ class Images:
             # texts
             title = "Modiji Games"
             subtitle = "Abki Baar 400 Par"
-            tap = "Tap to Start"
+            tap = "Kamal Ka Button Dabaye"
 
             # colors and simple shadow
             text_color = (255, 255, 255)
